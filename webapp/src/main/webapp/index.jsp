@@ -1,6 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Deploying n a VM </h2>
-<h2> Change once again</h2>
-<h2> Changing again</h2>
+<h2> Changes for Ansible lecture </h2>
 <h2> Glad to see you here </h2>
